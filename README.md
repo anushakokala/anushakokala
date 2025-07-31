@@ -39,29 +39,31 @@
 
 ## 🧠 Current Focus
 
-- Building an AI/ML project as a Fellow at **Cornell Tech**
-
----
+- Tackling real-world industry challenges through collaborative AI/ML-driven solutions as a **Cornell Tech Fellow**
 
 ## 📂 Featured Projects
 
-### [NeuroCam](https://github.com/saroshaprasla/AIM25.git)
-AI-based real-time neurological disorder detection application via facial expression analysis  
-`Flutter` · `MediaPipe` · `OpenCV` · `PyTorch` · `CNN`
+### [NeuroCam](https://github.com/saroshaprasla/AIM25.git)  
+An AI-powered application for real-time detection of neurological disorders through facial expression analysis
+**Tech Stack:** `Flutter` · `MediaPipe` · `OpenCV` · `PyTorch` · `Python`
 
-### [JointEase](https://github.com/anushakokala/JointEase.git)
-Health tracker for arthritis patients  
-`React` · `Flask` · `SQLite` · `JWT` · `Figma`
+---
 
-### [Design Society Website](https://github.com/Design-Society-Student-Chapter-at-UTD/DSSCWebsite.git)
-Responsive React website for student organization  
-`React` · `Tailwind CSS`
+### [JointEase](https://github.com/anushakokala/JointEase.git)  
+Health tracker designed to support arthritis patients with symptom and medication tracking  
+**Tech Stack:** `React` · `Flask` · `SQLite` · `JWT` · `Figma`
 
-### [Web3 Security Data Analytics](https://github.com/anushakokala/Web3-Security-Data-Analytics.git) 
-`Python` · `pandas` · `scikit-learn` · `Matplotlib` · `Seaborn`  
-- Conducted correlation analysis of smart contracts using unsupervised learning, reducing vulnerabilities by 40%  
-- Cleaned and labeled large datasets to improve clustering accuracy by 35%  
-- Developed a risk categorization system that segmented behaviors into 3+ categories, boosting anomaly detection by 50%
+---
+
+### [Design Society Website](https://github.com/Design-Society-Student-Chapter-at-UTD/DSSCWebsite.git)  
+Responsive website for a student organization  
+**Tech Stack:** `React` · `Tailwind CSS`
+
+---
+
+### [World Happiness Predictor](https://github.com/anushakokala/BBT-Cornell-Tech.git)  
+Predicts a country's happiness score using social and economic indicators from the World Happiness Report dataset  
+**Tech Stack:** `Python` · `pandas` · `scikit-learn` · `Matplotlib` · `Seaborn` · `NumPy`· `SciPy`
 
 ---
 
