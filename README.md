@@ -61,7 +61,7 @@ Responsive React website for student organization
 ---
 
 ## 🤝 Let's Connect!
-💼 **LinkedIn:** [linkedin.com/in/yourusername](https://linkedin.com/in/anusha-kokala)  
+💼 **LinkedIn:** [linkedin.com/in/anusha-kokala](https://linkedin.com/in/anusha-kokala)  
 
 
 ---
