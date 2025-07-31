@@ -34,23 +34,29 @@
 
 ## 🧠 Current Focus
 
-- 🧪 Building an AI/ML project as a Fellow at **Cornell Tech**
+- Building an AI/ML project as a Fellow at **Cornell Tech**
 
 ---
 
 ## 📂 Featured Projects
 
-### 🔹 [NeuroCam](https://github.com/saroshaprasla/AIM25.git)
-AI-based real-time neurological disorder detection mobile app  
+### [NeuroCam](https://github.com/saroshaprasla/AIM25.git)
+AI-based real-time neurological disorder detection application via facial expression analysis  
 `Flutter` · `MediaPipe` · `OpenCV` · `PyTorch` · `CNN`
 
-### 🔹 [JointEase](https://github.com/anushakokala/JointEase.git)
-Health tracker & for arthritis patients  
+### [JointEase](https://github.com/anushakokala/JointEase.git)
+Health tracker for arthritis patients  
 `React` · `Flask` · `SQLite` · `JWT` · `Figma`
 
-### 🔹 [Design Society Website](https://github.com/Design-Society-Student-Chapter-at-UTD/DSSCWebsite.git)
+### [Design Society Website](https://github.com/Design-Society-Student-Chapter-at-UTD/DSSCWebsite.git)
 Responsive React website for student organization  
 `React` · `Tailwind CSS`
+
+### [Web3 Security Data Analytics](https://github.com/anushakokala/Web3-Security-Data-Analytics.git) 
+`Python` · `pandas` · `scikit-learn` · `Matplotlib` · `Seaborn`  
+- Conducted correlation analysis of smart contracts using unsupervised learning, reducing vulnerabilities by 40%  
+- Cleaned and labeled large datasets to improve clustering accuracy by 35%  
+- Developed a risk categorization system that segmented behaviors into 3+ categories, boosting anomaly detection by 50%
 
 ---
 
