@@ -34,54 +34,29 @@
 
 ## 🧠 Current Focus
 
-- 🧪 Building an AI/ML project as a Fellow at **Break Through Tech**
-- 🧬 Working on neuro-disorder detection using facial analysis and CNNs
-- 🤝 Mentoring future coders through **Girls Who Code** and **Freshman Mentor Program**
+- 🧪 Building an AI/ML project as a Fellow at **Cornell Tech**
 
 ---
 
 ## 📂 Featured Projects
 
-### 🔹 [NeuroCam](https://github.com/anushakokala/neurocam)
+### 🔹 [NeuroCam](https://github.com/saroshaprasla/AIM25.git)
 AI-based real-time neurological disorder detection mobile app  
 `Flutter` · `MediaPipe` · `OpenCV` · `PyTorch` · `CNN`
 
-### 🔹 [JointEase](https://github.com/anushakokala/jointease)
+### 🔹 [JointEase](https://github.com/anushakokala/JointEase.git)
 Health tracker & for arthritis patients  
 `React` · `Flask` · `SQLite` · `JWT` · `Figma`
 
-### 🔹 [Design Society Website](https://github.com/yourusername/designsociety)
+### 🔹 [Design Society Website](https://github.com/Design-Society-Student-Chapter-at-UTD/DSSCWebsite.git)
 Responsive React website for student organization  
 `React` · `Tailwind CSS`
 
 ---
 
-## 💼 Experience Highlights
-
-**Web3 Security Extern** @ _[Organization Name]_  
-*Sept 2024 – Oct 2024*  
-→ Reduced smart contract risk by 40% using unsupervised clustering algorithms  
-
-**Math & Reading Tutor** @ _Kumon_  
-*Aug 2022 – Present*  
-→ Helped 100+ K–12 students improve scores by ~15% in 3 months  
-
----
-
-## 🏆 Awards & Certifications
-
-- 📜 **Google: Foundations of Cybersecurity** *(Jul 2024)*  
-- 🧠 **React Basics** *(Aug 2024)*  
-- 🌟 **Selected AI/ML Fellow** out of 3,000+ applicants *(May 2025)*
-
----
-
 ## 🤝 Let's Connect!
+💼 **LinkedIn:** [linkedin.com/in/yourusername](https://linkedin.com/in/anusha-kokala)  
 
-📫 **Email:** [your.email@domain.com]  
-💼 **LinkedIn:** [linkedin.com/in/yourusername](https://linkedin.com/in/yourusername)  
-🌐 **Portfolio/Website:** [yourportfolio.com](https://yourportfolio.com)
 
 ---
-
-> “The best way to predict the future is to invent it.” – Alan Kay  
+  
