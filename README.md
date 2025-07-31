@@ -44,25 +44,30 @@
 ## 📂 Featured Projects
 
 ### [NeuroCam](https://github.com/saroshaprasla/AIM25.git)  
-An AI-powered application for real-time detection of neurological disorders through facial expression analysis
-**Tech Stack:** `Flutter` · `MediaPipe` · `OpenCV` · `PyTorch` · `Python`
+An AI-powered application for real-time detection of neurological disorders through facial expression analysis  
+
+**Tech Stack:**  `Flutter` · `MediaPipe` · `OpenCV` · `PyTorch` · `Python`
+
 
 ---
 
 ### [JointEase](https://github.com/anushakokala/JointEase.git)  
 Health tracker designed to support arthritis patients with symptom and medication tracking  
+
 **Tech Stack:** `React` · `Flask` · `SQLite` · `JWT` · `Figma`
 
 ---
 
 ### [Design Society Website](https://github.com/Design-Society-Student-Chapter-at-UTD/DSSCWebsite.git)  
 Responsive website for a student organization  
+
 **Tech Stack:** `React` · `Tailwind CSS`
 
 ---
 
 ### [World Happiness Predictor](https://github.com/anushakokala/BBT-Cornell-Tech.git)  
 Predicts a country's happiness score using social and economic indicators from the World Happiness Report dataset  
+
 **Tech Stack:** `Python` · `pandas` · `scikit-learn` · `Matplotlib` · `Seaborn` · `NumPy`· `SciPy`
 
 ---
