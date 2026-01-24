@@ -65,10 +65,10 @@ Responsive website for a student organization
 
 ---
 
-### [World Happiness Predictor](https://github.com/anushakokala/BBT-Cornell-Tech.git)  
-Predicts a country's happiness score using social and economic indicators from the World Happiness Report dataset  
+### [AI Investor Match Making System](https://github.com/bxjyj/IEC-2B-AI-Project.git)  
+AI-powered investor–company matchmaking system leveraging Random Forest modeling and Large Language Models (LLMs) to address fragmented and unstructured investor relations data.  
 
-**Tech Stack:** `Python` · `pandas` · `scikit-learn` · `Matplotlib` · `Seaborn` · `NumPy`· `SciPy`
+**Tech Stack:** `Python` · `pandas` · `scikit-learn` · `Matplotlib` · `Seaborn` · `NumPy`· `SciPy`· `openai`
 
 ---
 
