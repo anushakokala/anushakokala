@@ -37,9 +37,6 @@
 
 ---
 
-## 🧠 Current Focus
-
-- Tackling real-world industry challenges through collaborative AI/ML-driven solutions as a **Cornell Tech Fellow**
 
 ## 📂 Featured Projects
 
